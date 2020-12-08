@@ -1,1 +1,2 @@
-# C20-Designing-Algo
+# p5.play-boilerplate
+Boiler plate for p5.play
